@@ -1,0 +1,82 @@
+# ===========================================
+# Site Information Settings
+# ===========================================
+
+# Site creation time
+since: 2015
+
+# Custom your favicon.ico in `site/source`
+favicon: /logo.ico
+
+# Set feed link (false | default | your feed link)
+# false: disable
+# default: use `atom.xml`, generator for `hexo-generator-feed`
+rss: false
+
+# ===========================================
+# Menu Settings
+# ===========================================
+menu:
+  Home: /
+  Archives: /archives/
+  Tags: /tags
+  Categories: /categories
+  About: /about
+
+# ===========================================
+# Theme Settings
+# ===========================================
+# theme styling
+# color: Default | Mint Green | Cobalt Blue | Hot Pink | Dark Violet
+theme:
+  color: Default
+  toc: true
+  search: true
+  fancybox: true
+
+copyright:
+  enable: true
+  # https://creativecommons.org/
+  license: '本文采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可'
+
+reward:
+  enable: true
+  qrCode: 
+    wechat: /image/reward/wechat.jpg
+    alipay: /image/reward/alipay.jpg
+
+# ===========================================
+# Social links Settings
+# ===========================================
+social:
+  email: your@email.com
+  stack-overflow:
+  twitter:
+  facebook:
+  linkedin:
+  google:
+  github: 
+  weibo: http://weibo.com/747952150
+  zhihu: 
+  pocket:
+
+# ===========================================
+# Third Party Services Settings
+# ===========================================
+
+# Baidu Analytics
+baidu_analytics: 5b1f88a8b8504af6901cc5ae78130e0c
+# Google Analytics
+google_analytics: 
+
+# Duoshuo
+duoshuo_shortname: 
+# Disqus
+disqus_shortname: 
+# netease
+netease_key: 72dac5709b634d02af0bda48670c1ec1
+
+# ===========================================
+# Version
+# ===========================================
+version: 2.3.x
